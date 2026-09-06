@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 5
+- **Total Problems Solved:** 6
 - **Easy:** 1 🟢
-- **Medium:** 4 🟡
+- **Medium:** 5 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -18,6 +18,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/2132208725/) | 🟡 Medium | cpp | 2026-09-05 |
 | [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | 🟡 Medium | cpp | 2026-08-29 |
 | [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/submissions/2123088181/) | 🟡 Medium | cpp | 2026-08-28 |
+| [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/submissions/2133334972/) | 🟡 Medium | cpp | 2026-09-06 |
 
 ---
 
