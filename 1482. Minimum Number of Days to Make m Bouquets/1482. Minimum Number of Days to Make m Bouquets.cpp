@@ -1,7 +1,7 @@
 /*
  * Problem: 1482. Minimum Number of Days to Make m Bouquets
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/submissions/2133337440/
+ * Link: https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/submissions/2133338170/
  * Language: cpp
  * Date: 2026-09-06
  */
@@ -10,6 +10,8 @@ class Solution {
 public:
     int minDays(vector<int>& bloomDay, int m, int k) {
          int n = bloomDay.size();
+         if (1LL * m * k > n)
+          return -1;
    
     int low = *std::min_element(bloomDay.begin(), bloomDay.end());
     int high = *std::max_element(bloomDay.begin(), bloomDay.end());
