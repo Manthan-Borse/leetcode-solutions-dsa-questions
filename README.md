@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 8
+- **Total Problems Solved:** 9
 - **Easy:** 1 🟢
-- **Medium:** 7 🟡
+- **Medium:** 8 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -14,6 +14,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | Problem | Difficulty | Language | Date |
 |---------|-----------|----------|------|
 | [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/submissions/2132221822/) | 🟢 Easy | cpp | 2026-09-06 |
+| [1283. Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/submissions/2134477423/) | 🟡 Medium | cpp | 2026-09-08 |
 | [1482. Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/submissions/2133337440/) | 🟡 Medium | cpp | 2026-09-06 |
 | [1482. Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/submissions/2133338170/) | 🟡 Medium | cpp | 2026-09-06 |
 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/submissions/2131204603/) | 🟡 Medium | cpp | 2026-09-05 |
