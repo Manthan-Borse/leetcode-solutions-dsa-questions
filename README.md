@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 10
-- **Easy:** 1 🟢
+- **Total Problems Solved:** 11
+- **Easy:** 2 🟢
 - **Medium:** 9 🟡
 - **Hard:** 0 🔴
 
@@ -13,6 +13,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 | Problem | Difficulty | Language | Date |
 |---------|-----------|----------|------|
+| [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/submissions/2136611072/) | 🟢 Easy | cpp | 2026-09-09 |
 | [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/submissions/2132221822/) | 🟢 Easy | cpp | 2026-09-06 |
 | [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/submissions/2134509305/) | 🟡 Medium | cpp | 2026-09-08 |
 | [1283. Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/submissions/2134477423/) | 🟡 Medium | cpp | 2026-09-08 |
