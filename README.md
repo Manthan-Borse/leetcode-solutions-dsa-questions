@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 12
+- **Total Problems Solved:** 13
 - **Easy:** 2 🟢
 - **Medium:** 9 🟡
-- **Hard:** 1 🔴
+- **Hard:** 2 🔴
 
 ## 📝 Problems
 
@@ -25,6 +25,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/submissions/2123088181/) | 🟡 Medium | cpp | 2026-08-28 |
 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/submissions/2133334972/) | 🟡 Medium | cpp | 2026-09-06 |
 | [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/submissions/2139378119/) | 🔴 Hard | cpp | 2026-09-12 |
+| [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/submissions/2139379298/) | 🔴 Hard | cpp | 2026-09-12 |
 
 ---
 
