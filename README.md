@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 13
+- **Total Problems Solved:** 14
 - **Easy:** 2 🟢
-- **Medium:** 9 🟡
+- **Medium:** 10 🟡
 - **Hard:** 2 🔴
 
 ## 📝 Problems
@@ -22,6 +22,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/submissions/2131204603/) | 🟡 Medium | cpp | 2026-09-05 |
 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/2132208725/) | 🟡 Medium | cpp | 2026-09-05 |
 | [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | 🟡 Medium | cpp | 2026-08-29 |
+| [75. Sort Colors](https://leetcode.com/problems/sort-colors/submissions/2144218428/) | 🟡 Medium | cpp | 2026-09-17 |
 | [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/submissions/2123088181/) | 🟡 Medium | cpp | 2026-08-28 |
 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/submissions/2133334972/) | 🟡 Medium | cpp | 2026-09-06 |
 | [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/submissions/2139378119/) | 🔴 Hard | cpp | 2026-09-12 |
