@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 17
-- **Easy:** 4 🟢
+- **Total Problems Solved:** 18
+- **Easy:** 5 🟢
 - **Medium:** 11 🟡
 - **Hard:** 2 🔴
 
@@ -13,6 +13,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 | Problem | Difficulty | Language | Date |
 |---------|-----------|----------|------|
+| [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/submissions/2160823758/) | 🟢 Easy | cpp | 2026-10-03 |
 | [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/submissions/2136611072/) | 🟢 Easy | cpp | 2026-09-09 |
 | [344. Reverse String](https://leetcode.com/problems/reverse-string/submissions/2159644894/) | 🟢 Easy | cpp | 2026-10-01 |
 | [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/submissions/2132221822/) | 🟢 Easy | cpp | 2026-09-06 |
