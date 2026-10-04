@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 18
+- **Total Problems Solved:** 19
 - **Easy:** 5 🟢
-- **Medium:** 11 🟡
+- **Medium:** 12 🟡
 - **Hard:** 2 🔴
 
 ## 📝 Problems
@@ -23,6 +23,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1482. Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/submissions/2133337440/) | 🟡 Medium | cpp | 2026-09-06 |
 | [1482. Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/submissions/2133338170/) | 🟡 Medium | cpp | 2026-09-06 |
 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/submissions/2131204603/) | 🟡 Medium | cpp | 2026-09-05 |
+| [1910. Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/submissions/2161710150/) | 🟡 Medium | cpp | 2026-10-04 |
 | [31. Next Permutation](https://leetcode.com/problems/next-permutation/submissions/2146188001/) | 🟡 Medium | cpp | 2026-09-19 |
 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/2132208725/) | 🟡 Medium | cpp | 2026-09-05 |
 | [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | 🟡 Medium | cpp | 2026-08-29 |
