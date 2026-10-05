@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 21
+- **Total Problems Solved:** 22
 - **Easy:** 5 🟢
-- **Medium:** 14 🟡
+- **Medium:** 15 🟡
 - **Hard:** 2 🔴
 
 ## 📝 Problems
@@ -22,6 +22,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1283. Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/submissions/2134477423/) | 🟡 Medium | cpp | 2026-09-08 |
 | [1482. Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/submissions/2133337440/) | 🟡 Medium | cpp | 2026-09-06 |
 | [1482. Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/submissions/2133338170/) | 🟡 Medium | cpp | 2026-09-06 |
+| [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/submissions/2163645634/) | 🟡 Medium | cpp | 2026-10-05 |
 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/submissions/2131204603/) | 🟡 Medium | cpp | 2026-09-05 |
 | [1910. Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/submissions/2161710150/) | 🟡 Medium | cpp | 2026-10-04 |
 | [1910. Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/submissions/2161710150/) | 🟡 Medium | cpp | 2026-10-04 |
