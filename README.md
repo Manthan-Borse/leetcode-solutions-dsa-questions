@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 22
-- **Easy:** 5 🟢
+- **Total Problems Solved:** 23
+- **Easy:** 6 🟢
 - **Medium:** 15 🟡
 - **Hard:** 2 🔴
 
@@ -16,6 +16,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/submissions/2160823758/) | 🟢 Easy | cpp | 2026-10-03 |
 | [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/submissions/2136611072/) | 🟢 Easy | cpp | 2026-09-09 |
 | [344. Reverse String](https://leetcode.com/problems/reverse-string/submissions/2159644894/) | 🟢 Easy | cpp | 2026-10-01 |
+| [344. Reverse String](https://leetcode.com/problems/reverse-string/submissions/2164162902/) | 🟢 Easy | cpp | 2026-10-06 |
 | [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/submissions/2132221822/) | 🟢 Easy | cpp | 2026-09-06 |
 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/submissions/2145237862/) | 🟢 Easy | cpp | 2026-09-18 |
 | [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/submissions/2134509305/) | 🟡 Medium | cpp | 2026-09-08 |
