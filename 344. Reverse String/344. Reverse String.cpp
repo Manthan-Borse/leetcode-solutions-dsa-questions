@@ -1,9 +1,9 @@
 /*
  * Problem: 344. Reverse String
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/reverse-string/submissions/2159644894/
+ * Link: https://leetcode.com/problems/reverse-string/submissions/2164162902/
  * Language: cpp
- * Date: 2026-10-01
+ * Date: 2026-10-06
  */
 
 class Solution {
